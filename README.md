@@ -7,6 +7,8 @@ Para uma análise mais detalhada do produto, acesse o [relatório](https://githu
 ## Dataset
 Para o treinamento do modelo de IA criado, utilizamos os dados anonimizados e representativos de clientes Stone, fornecimentos durante o desafio. 
 
+### Notebooks
+Nos scripts criados e disponíveis no diretório /dataset, estão criados os modelos para previsão da próxima compra de um cliente e o modelo para detecção do melhor horário para cashback. É importante frisar que apenas os dados da tabela sales foram utilizados. Além disso, assumimos que o number_card nessa mesma tabela é o identificador de um cliente (no mundo real, teríamos acesso ao CPF de alguma forma, conforme a sugestão dada pelo mentor da Stone).
 ### Dados de Vendas
 Informações detalhadas sobre cada venda recebida na maquininha, como data, hora, valor, ID do estabelecimento comercial e ID do cartão utilizado. Além disso, informações de tipo de negócio e estado do estabelecimento.
 
