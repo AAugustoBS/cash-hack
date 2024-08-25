@@ -2,7 +2,7 @@
 Este produto foi feito com o objetivo de cumprir o Desafio Brasa Hacks 2024 - Stone + IA Track. 
 
 O CashHack é um MVP de Inteligência Artificial (IA) projetada para otimizar as operações de estabelecimentos comerciais ao personalizar cupons de cashback com base em uma análise detalhada de dados.
-Para uma análise mais detalhada do produto, clique [aqui](https://github.com/AAugustoBS/cash-hack/blob/d5961f6da44144afa720ec7519ba909c1df82d0c/BrasaHacks-Relatorio%20de%20Produto.pdf)
+Para uma análise mais detalhada do produto, [clique aqui](https://github.com/AAugustoBS/cash-hack/blob/d5961f6da44144afa720ec7519ba909c1df82d0c/BrasaHacks-Relatorio%20de%20Produto.pdf)
 
 ## Dataset
 Para o treinamento do modelo de IA criado, utilizamos os dados anonimizados e representativos de clientes Stone, fornecimentos durante o desafio. 
@@ -43,7 +43,7 @@ O objetivo da ferramenta é observar o comportamento de vendas do estabeleciment
 
 A ferramenta distribui ofertas de cashback aumentadas, oferecendo uma porcentagem maior de retorno para os clientes que visitam o estabelecimento em períodos de menor movimento. Essa estratégia busca equilibrar o fluxo de clientes, garantindo um volume de vendas mais constante ao longo do tempo.
 <p align="center" justify="center">
-  <img src="docs/previsao.png"/>
+  <img src="docs/previsao.jpg"/>
 </p>
 <p align="center">
 </p>
@@ -52,7 +52,7 @@ A ferramenta distribui ofertas de cashback aumentadas, oferecendo uma porcentage
 
 A IA monitora os padrões de consumo e oferece cashbacks em momentos estratégicos, principalmente quando identifica uma queda no interesse ou na frequência das visitas. Isso incentiva os clientes a retornarem ao estabelecimento com a mesma regularidade anterior.
 <p align="center" justify="center">
-  <img src="docs/transactions.png"/>
+  <img src="docs/transactions.jpg"/>
 </p>
 <p align="center">
 </p>
