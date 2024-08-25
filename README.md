@@ -16,7 +16,6 @@ Informações detalhadas sobre cada venda recebida na maquininha, como data, hor
   <img src="docs/DadosDeVenda.png"/>
 </p>
 <p align="center">
-  <b><i> Backlog of the Beggining of Sprint 2</i></b>
 </p>
 
 ### Transferências Bancárias
@@ -26,7 +25,6 @@ Registros de transferências de entrada e saída bancária, com data-hora, valor
   <img src="docs/dadosTransBanc.png"/>
 </p>
 <p align="center">
-  <b><i> Backlog of the Beggining of Sprint 2</i></b>
 </p>
 
 ### Dicionário de MCC
@@ -36,12 +34,28 @@ Tipo de estabelecimento comercial.
   <img src="docs/mcc.png"/>
 </p>
 <p align="center">
-  <b><i> Backlog of the Beggining of Sprint 2</i></b>
 </p>
 
 ## Exemplos de Análise
+O objetivo da ferramenta é observar o comportamento de vendas do estabelecimento e traçar estratégias para garantir a fidelização dos clientes. 
 
-## Apresentação do Projeto
+### Identificação de Picos e Baixas
+
+A ferramenta distribui ofertas de cashback aumentadas, oferecendo uma porcentagem maior de retorno para os clientes que visitam o estabelecimento em períodos de menor movimento. Essa estratégia busca equilibrar o fluxo de clientes, garantindo um volume de vendas mais constante ao longo do tempo.
+<p align="center" justify="center">
+  <img src="docs/previsao.png"/>
+</p>
+<p align="center">
+</p>
+
+### Análise do Perfil de Consumo do Cliente
+
+A IA monitora os padrões de consumo e oferece cashbacks em momentos estratégicos, principalmente quando identifica uma queda no interesse ou na frequência das visitas. Isso incentiva os clientes a retornarem ao estabelecimento com a mesma regularidade anterior.
+<p align="center" justify="center">
+  <img src="docs/transactions.png"/>
+</p>
+<p align="center">
+</p>
 
 ## Membros 
 
