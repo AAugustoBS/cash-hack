@@ -2,7 +2,7 @@
 Este produto foi feito com o objetivo de cumprir o Desafio Brasa Hacks 2024 - Stone + IA Track. 
 
 O CashHack é um MVP de Inteligência Artificial (IA) projetada para otimizar as operações de estabelecimentos comerciais ao personalizar cupons de cashback com base em uma análise detalhada de dados.
-Para uma análise mais detalhada do produto, clique [aqui](https://github.com/AAugustoBS/cash-hack/blob/d5961f6da44144afa720ec7519ba909c1df82d0c/BrasaHacks-Relatorio%20de%20Produto.pdf)
+Para uma análise mais detalhada do produto, [clique aqui](https://github.com/AAugustoBS/cash-hack/blob/d5961f6da44144afa720ec7519ba909c1df82d0c/BrasaHacks-Relatorio%20de%20Produto.pdf)
 
 ## Dataset
 Para o treinamento do modelo de IA criado, utilizamos os dados anonimizados e representativos de clientes Stone, fornecimentos durante o desafio. 
